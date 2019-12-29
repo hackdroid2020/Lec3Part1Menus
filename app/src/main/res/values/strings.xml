@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lec3Part1Menus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hi">Hi</string>
+    <string name="about">About</string>
+    <string name="back">&lt;</string>
+    <string name="next">&gt;</string>
+</resources>
