@@ -114,7 +114,6 @@ public class MainActivity extends AppCompatActivity {
             tvToast.setTextColor(Color.WHITE);
 
             //START vs left
-
             t.show();
         } else if (id == R.id.action_hi) {
             //random color?
